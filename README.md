@@ -19,6 +19,7 @@ I made this project as it my first projet in github just for fun, it allows me d
 💻 Linux and Windows servers
 🖱 Terraform
 ⌨ Docker
+
 🔭 I’m currently working on AWS Projects
 🌱 I’m currently learning EKS
 👯 I’m looking to collaborate on Cloud Computing
@@ -29,3 +30,4 @@ Formula 1
 Gym
 Soccer
 TV Shows(Breaking Bad, Game of Thrones, The Boys, The Office, How I meet your Mother)
+
