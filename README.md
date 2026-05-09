@@ -6,7 +6,8 @@ I am a Junior DevOps Engineer with experience in deploying and managing infrastr
 
 I'm very skilled in troubleshooting network issues, with a vast experience as a Network Adminstrator.
 
-I currently have two AWS Certifications under my belt, however, I'm studying for more.
+I currently have 3 AWS Certifications under my belt, however, I'm studying for more.
+(SysOps/CloudOps / SA / SA Pro)
 
 ----------------------------------------------
 
